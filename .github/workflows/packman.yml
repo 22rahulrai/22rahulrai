@@ -1,0 +1,22 @@
+name: 🟡 Generate Pacman Contribution Graph
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # runs daily
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: yogeshwaran01/pacman-contribution-graph@main
+        with:
+          user_name: 22rahulrai
+      - name: Push graph
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add output
+          git commit -m "Update pacman contribution graph"
+          git push
