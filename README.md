@@ -109,13 +109,21 @@ I love turning complex problems into clean, efficient code—and I enjoy explain
 
 <br>
 
-## 🟡 Pac-Man Contribution Graph
+## 🟡 GitHub Contribution Snake Game
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/22rahulrai/22rahulrai/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/22rahulrai/22rahulrai/output/pacman-contribution-graph.svg" />
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/22rahulrai/22rahulrai/output/pacman-contribution-graph.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/22rahulrai/22rahulrai/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/22rahulrai/22rahulrai/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/22rahulrai/22rahulrai/output/github-contribution-grid-snake.svg" />
 </picture>
+
+<!-- Animated version -->
+<div align="center">
+  <img src="https://22rahulrai.github.io/22rahulrai/ocean.gif" alt="GitHub Snake Animation" />
+</div>
+
+
+
 <br>
 
 ## 📊 Github Stats
@@ -158,6 +166,8 @@ I love turning complex problems into clean, efficient code—and I enjoy explain
 </div>
 
 
+
 [![](https://visitcount.itsvg.in/api?id=22rahulrai&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
