@@ -1,327 +1,165 @@
-<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzd0d2plZ2k3ZXBsbGM4NGc3M216YjRqc3p6dTZ5OG5mZnI2bG82YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif" width="200" />
-</div>
+<!-- Header wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:bf91f3,100:70a5fd&height=200&section=header&text=Hey%2C%20I%27m%20Rahul%20Rai&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20.NET%20%2F%20C%23%20Backends&descAlignY=56&descSize=18&animation=fadeIn" width="100%" />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=22rahulrai&style=for-the-badge&color=blue&base=1000" alt="github profile views counter">
+
+<a href="https://github.com/22rahulrai">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=70A5FD&center=true&vCenter=true&width=620&lines=Software+Engineer+building+.NET+backends;C%23+%7C+ASP.NET+%7C+SQL+Server;Debugging+stored+procs+for+fun+%F0%9F%90%9B;Turning+messy+problems+into+clean+code" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://portfolio-rai.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=vercel&logoColor=70a5fd" /></a>
+<a href="https://www.linkedin.com/in/rairahul22" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=70a5fd" /></a>
+<a href="mailto:jrahulrai@gmail.com"><img src="https://img.shields.io/badge/Gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=bf91f3" /></a>
+<img src="https://komarev.com/ghpvc/?username=22rahulrai&style=for-the-badge&color=70a5fd&base=1000&label=Profile+views" alt="profile views" />
+
 </div>
 
+<br/>
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32" /> About me
+
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzd0d2plZ2k3ZXBsbGM4NGc3M216YjRqc3p6dTZ5OG5mZnI2bG82YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif" width="210" />
+
+- 👨‍💻 **Software Engineer** building .NET backends and referral / growth platforms
+- 🗄️ Spend a lot of my day inside **SQL Server** — stored procedures, query tuning, data fixes
+- 🎓 B.E. Software Engineering, **Chitkara University, Punjab**
+- 📍 Based in **Haryana, India**
+- ⚡ Fun fact: I like explaining tech the way I wish someone had explained it to my past self
+
+<br clear="right"/>
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### 🔨 Working on
+- A referral & rewards platform for mobile apps and SaaS
+- A customer-feedback platform: NPS surveys, reviews & referrals
+- REST APIs in ASP.NET Web API
+- Android & Web SDKs
 
 
+</td>
+<td valign="top" width="33%">
 
+### 🌱 Learning
+- SQL Server indexing & query performance
+- Redis caching in production
+- Designing SDK APIs that are easy to integrate
 
-<h1 align="center">Hey 👋 I'm Rahul Rai</h1>
+</td>
+<!-- <td valign="top" width="33%">
 
+### 💬 Ask me about
+- Referral tracking & install attribution
+- Building SDKs for Android & web
+- NPS & customer-feedback flows
+- Stored procedures & slow-query fixes
+- Stripe billing integration
 
-###
-
-## 👨‍💻 About Me
-👨🏻 My name is **Rahul Rai**. I'm a Software Engineering student with a passion <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> for building web applications using modern technologies, <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3VteDJ5Y2twaWVwMTdmZGszOW4zbDk1Ym9obmVocXlyZGt3ZjN4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" width="40" /> and currently living in Haryana, India. <img src="https://media.giphy.com/media/upeUCSCeNo4qqHlxgW/giphy.gif?cid=ecf05e47yg2xaqqfoc8s2coq4cldpm892nk1qvoui1btj8am&ep=v1_gifs_search&rid=giphy.gif&ct=g"  width="40" /> <br/>
-  👨🏻‍💻 I'm studying Software Engineering in my final year at the Chitkara University of Punjab. <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzYxcHlncmM4cm5zenJzYndhMjc3Y2ZiMnhyN2RkNXo2eWRvdHJiYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kwLOtSFR0lf4MfhPZj/giphy.gif" width="40" /> <br/>
-  💪🏻 At the moment, I am working on full-stack projects to improve my skills and experiences. <img src="https://media.giphy.com/media/ImAnYWlmD40QPJYbVf/giphy.gif?cid=ecf05e47hmewgl4ej1t5plnslntb9l53xxidbapoenta3t5g&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="40" /> <br/>
-  <br>🙋🏻‍♂️ Want to know more about me? Check out my &nbsp;
-  <a href="https://portfolio-rai.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
-  </a>
-  <br/><br>
-🚀 Let's connect and build something awesome! 💡💻
-
-
-
-### 🔭 I’m currently working on:
-- ASP.NET backend projects  
-- C# design patterns and advanced concepts  
-- Building side projects to sharpen my backend skills  
-
-### ⚡ Fun fact:  
-I love turning complex problems into clean, efficient code—and I enjoy explaining tech concepts simply as if I were teaching my past self!
-
-<br>
-
-# 💻 My Tech Stack
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="200" valign="top">
-      <h3>📋 Programming Languages</h3>
-    </td>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
-<!--       <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> -->
-      <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal" />
-<!--       <img src="https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515" alt="YAML" /> -->
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200" valign="top">
-      <h3>💾 Databases</h3>
-    </td>
-    <td valign="top">
-<!--       <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" /> -->
-      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="MS SQL Server" />
-<!--       <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> -->
-      <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-<!--       <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" /> -->
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200" valign="top">
-      <h3>📚 Frameworks, Platforms & Libraries</h3>
-    </td>
-    <td valign="top">
-<!--       <img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white" alt="AntDesign" /> -->
-<!--       <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra UI" /> -->
-<!--       <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" -->
-<!--       alt="Chart.js" /> -->
-<!--       <img src="https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI" /> -->
-      <img src="https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black" alt="EJS" />
-      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-      <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
-      <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT" />
-<!--       <img src="https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Apache Maven" /> -->
-      <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="MUI" />
-      <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
-<!--       <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /> -->
-      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" alt="Nodemon" />
-<!--       <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" /> -->
-<!--       <img src="https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white" alt="Radix UI" /> -->
-<!--       <img src="https://img.shields.io/badge/scrapy-%2360a839.svg?style=for-the-badge&logo=scrapy&logoColor=d1d2d3" alt="Scrapy" /> -->
-      <img src="https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white" alt="Semantic UI React" />
-<!--       <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" /> -->
-      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-<!--       <img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white" alt="Thymeleaf" /> -->
-      <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-<!--       <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn" /> -->
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200" valign="top">
-      <h3>🕓 Version Control</h3>
-    </td>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<!--       <img src="https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425" alt="Gitea" /> -->
-      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<!--       <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /> -->
-    </td>
-  </tr>
-  
-<!--   <tr> -->
-<!--     <td align="center" width="200" valign="top"> -->
-<!--       <h3>🔬 CI</h3> -->
-<!--     </td> -->
-<!--     <td valign="top"> -->
-<!--       <img src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI"/> -->
-<!--       <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/> -->
-<!--     </td> -->
-<!--   </tr> -->
-  <tr>
-    <td align="center" width="200" valign="top">
-      <h3>🔨 Tools & Editors</h3>
-    </td>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
-      <img src="https://img.shields.io/badge/Visual%20Studio%202022-35b393.svg?style=for-the-badge&logo=visual-studio-22&logoColor=white" alt="Visual Studio 2022 " />
-      <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" alt="Eclipse" />
-      <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
-      <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm" />
-      <img src="https://img.shields.io/badge/Cursor-000000.svg?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
-      <img src="https://img.shields.io/badge/Cursor-000000.svg?style=for-the-badge&logo=data:image/svg+xml;base64,DATA_HERE" alt="Cursor" />
-      <img src="https://img.shields.io/badge/Notion-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black" alt="Notion" />
-      
-<!--       <img src="https://img.shields.io/badge/Notion-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black" alt="Notion" /> -->
-<!--       <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=V&logoColor=important" alt="Sublime Text" /> -->
-<!--       <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian" /> -->
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200" valign="top">
-      <h3>🥅 Others</h3>
-    </td>
-    <td valign="top">
-<!--       <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> -->
-<!--       <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" /> -->
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-    </td>
-  </tr>
+</td> -->
+</tr>
 </table>
 
-<br>
+## 🧰 Tech stack
 
-<!--
-## 🛠️ Tech Stack
+<div align="center">
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) 
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=cs&theme=dark" width="48" alt="C#" title="C#" />
+<img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" alt="Java" title="Java" />
+<img src="https://skillicons.dev/icons?i=swift&theme=dark" width="48" alt="Swift" title="Swift" />
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" alt="JavaScript" title="JavaScript" />
+<img src="https://skillicons.dev/icons?i=py&theme=dark" width="48" alt="Python" title="Python" />
+<img src="https://skillicons.dev/icons?i=c&theme=dark" width="48" alt="C" title="C" />
+<img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48" alt="C++" title="C++" />
+<img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" alt="HTML" title="HTML" />
+<img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" alt="CSS" title="CSS" />
 
+**Backend & web**<br/>
+<img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="48" alt=".NET" title=".NET" />
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" alt="Node.js" title="Node.js" />
+<img src="https://skillicons.dev/icons?i=express&theme=dark" width="48" alt="Express" title="Express" />
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" alt="React" title="React" />
+<img src="https://skillicons.dev/icons?i=astro&theme=dark" width="48" alt="Astro" title="Astro" />
+<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" alt="Tailwind CSS" title="Tailwind CSS" />
+<img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="48" alt="Bootstrap" title="Bootstrap" />
+<img src="https://skillicons.dev/icons?i=jquery&theme=dark" width="48" alt="jQuery" title="jQuery" />
+<img src="https://skillicons.dev/icons?i=vite&theme=dark" width="48" alt="Vite" title="Vite" />
+<img src="https://skillicons.dev/icons?i=materialui&theme=dark" width="48" alt="Material UI" title="Material UI" />
 
+**Databases & cache**<br/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="48" alt="SQL Server" title="SQL Server" />
+<img src="https://skillicons.dev/icons?i=redis&theme=dark" width="48" alt="Redis" title="Redis" />
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" alt="MySQL" title="MySQL" />
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" alt="MongoDB" title="MongoDB" />
+<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="48" alt="SQLite" title="SQLite" />
 
-<!--<div align="left">
+**Cloud, DevOps & build**<br/>
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" alt="AWS" title="AWS" />
+<img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48" alt="Vercel" title="Vercel" />
+<img src="https://skillicons.dev/icons?i=gitlab&theme=dark" width="48" alt="GitLab" title="GitLab" />
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" alt="GitHub" title="GitHub" />
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" alt="Git" title="Git" />
+<img src="https://skillicons.dev/icons?i=gradle&theme=dark" width="48" alt="Gradle" title="Gradle" />
+<img src="https://skillicons.dev/icons?i=maven&theme=dark" width="48" alt="Maven" title="Maven" />
+<img src="https://skillicons.dev/icons?i=powershell&theme=dark" width="48" alt="PowerShell" title="PowerShell" />
+<img src="https://skillicons.dev/icons?i=windows&theme=dark" width="48" alt="Windows" title="Windows" />
+<img src="https://img.shields.io/badge/IIS-5C2D91?style=for-the-badge&logoColor=white" height="48" alt="IIS" title="IIS" />
 
--- this is a part of about me section
-### 👯 I’m looking to collaborate on:
-- Open-source C# / JavaScript backend projects  
-- Real-world full-stack applications (MERN / .NET)  
+**Tools**<br/>
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" alt="VS Code" title="VS Code" />
+<img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" width="48" alt="Visual Studio" title="Visual Studio" />
+<img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="48" alt="Android Studio" title="Android Studio" />
+<img src="https://skillicons.dev/icons?i=idea&theme=dark" width="48" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
+<img src="https://skillicons.dev/icons?i=pycharm&theme=dark" width="48" alt="PyCharm" title="PyCharm" />
+<img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" alt="Postman" title="Postman" />
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" alt="Figma" title="Figma" />
+<img src="https://skillicons.dev/icons?i=notion&theme=dark" width="48" alt="Notion" title="Notion" />
 
-🤝 I’m looking for help with:
-- Writing optimized SQL queries  
-- Best practices in designing scalable APIs  
+</div>
 
-### 🌱 I’m currently learning:
-- ASP.NET Core Web APIs and application architecture  
-- Cloud deployment with AWS  
-- Multithreading and performance tuning in C#
+## 🚀 Featured projects
 
-### 💬 Ask me about:
-- C#, .NET, Design Patterns  
-- React.js and MERN Stack development  
-- SQL Server and database optimization  
+| Project | What it does |
+|---|---|
+| 🧩 [Simple Explainer](https://github.com/22rahulrai/simple-explainer) | Claude Code plugin that explains code, errors and concepts in plain language, ending with a next step you can act on |
+| 🔐 [Facial Recognition Attendance](https://github.com/22rahulrai/Face_Recognition_2110992016) | Real-time attendance tracking in Python |
+| 🏠 [Home Haven](https://github.com/22rahulrai/home-haven) | MERN-stack rental listing platform |
+| 📊 [Algorithm Visualizer](https://github.com/22rahulrai/algorithm-visualizer) | Watch sorting and searching algorithms run step by step |
 
+## 📊 GitHub stats
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-<!-- </div> -->
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=22rahulrai&theme=tokyonight" width="100%" />
+<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=22rahulrai&theme=tokyonight" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=22rahulrai&theme=tokyonight" width="49%" />
+<br/>
+<img src="https://streak-stats.demolab.com/?user=22rahulrai&theme=tokyonight&hide_border=true" />
+</div>
 
-
-<br>
-
-## 🟡 GitHub Contribution Snake Game
+## 🐍 Contribution snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/22rahulrai/22rahulrai/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/22rahulrai/22rahulrai/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/22rahulrai/22rahulrai/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/22rahulrai/22rahulrai/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<!-- Animated version -->
-<div align="center">
-  <img src="https://22rahulrai.github.io/22rahulrai/ocean.gif" alt="GitHub Snake Animation" />
-</div>
-
-
-
-## 🚀 Featured Projects
-
-- 🔐 [Facial Recognition Attendance System](https://github.com/22rahulrai/Face_Recognition_2110992016) – Python-based real-time attendance tracking  
-- 🏠 [Home Haven](https://github.com/22rahulrai/home-haven) – MERN stack rental listing platform  
-- 📊 [Algorithm Visualizer](https://github.com/22rahulrai/algorithm-visualizer) – Interactive tool to learn sorting/searching algorithms
-
-<br>
-<!--
-# 🤝🏻 My Contribution Stats
-<
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=22rahulrai)](https://github.com/LordDashMe/github-contribution-stats/)
--->
-
-
-## 📊 Github Stats
-
+## ✍️ Dev quote of the day
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=22rahulrai&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
-  <br><br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=22rahulrai&theme=dark&hide_border=false" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=22rahulrai&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
-<br>
 
+<br/>
 
-## ✍️ Random Dev Quote
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+<b>Let's connect and build something awesome together 🚀</b>
 </div>
 
-
-<br>
-
-## 🌐 Social Links
-
-
-<div align="left">
-  <!-- Gmail -->
-  <a href="mailto:jrahulrai@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/rairahul22" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
-  </a>
-  
-  <!-- Portfolio -->
-  <a href="https://portfolio-rai.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
-  </a>
-  <!-- Github -->
-  <a href="https://github.com/22rahulrai" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  
-</div>
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,50:bf91f3,100:1a1b27&height=120&section=footer" width="100%" />
