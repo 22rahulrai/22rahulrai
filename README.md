@@ -29,6 +29,7 @@
 - ⚡ Fun fact: I like explaining tech the way I wish someone had explained it to my past self
 
 <br clear="right"/>
+<br/>
 
 <table>
 <tr>
